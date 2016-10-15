@@ -1,6 +1,9 @@
 # ThesisIST
-A possible implementation of DQN with tensorflow with a neural network i used on my thesis
+A possible implementation of a partial DQN with tensorflow i used in my thesis
 Requires: 
+
 1)OpenAiGym
-2)Last branch of tensorflow
-3)Open notebooks with jupyter
+
+2)Tensorflow
+
+3)Jupyter Notebook
