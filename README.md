@@ -1,5 +1,5 @@
 # ThesisIST
-A possible implementation of a partial DQN with tensorflow i used in my thesis
+A possible implementation of a partial DQN with tensorflow I used in my thesis
 
 Requires: 
 
@@ -8,3 +8,5 @@ Requires:
 2)Tensorflow
 
 3)Jupyter Notebook
+
+DQN is described in: Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature 518.7540 (2015): 529-533.
